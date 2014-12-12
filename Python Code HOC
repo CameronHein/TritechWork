@@ -1,0 +1,16 @@
+TritechWork
+===========
+for (var count2 = 0; 
+count2 < 2; count2++) { // create_a_circle for (var count = 0; count < 36; 
+count++) { moveForward((2)); 
+turnRight(10);
+ } jumpForward(25); 
+} moveBackward(25); 
+  turnLeft(90); 
+    moveForward(100); 
+    turnLeft(90); 
+  moveForward(25); 
+    turnLeft(90); 
+moveForward(100); 
+  turnRight(90); 
+    moveForward(25);
